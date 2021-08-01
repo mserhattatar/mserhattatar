@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 🤝 I’m looking for help with [RunRun Game](github.com/mserhattatar/RunRun)
+- 🤝 I’m looking for help with [RunRun Game](https://github.com/mserhattatar/RunRun)
 
 - 👨‍💻 All of my projects are available at [github.com/mserhattatar](github.com/mserhattatar)
 
