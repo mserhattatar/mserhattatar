@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help for [Skipping School Game](https://github.com/mserhattatar/SkippingSchoolRunnerGame)
 
-- 👨‍💻 All of my projects are available at [Git Hub](github.com/mserhattatar)
-
 - 📫 How to reach me **mserhattatar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
