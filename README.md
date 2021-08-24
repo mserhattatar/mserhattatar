@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm M.Serhat TATAR</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Google Casual Bootcamp Game Development Camp**
-
 - 🌱 I’m currently learning **Unity**
 
-- 🤝 I’m looking for help with [RunRun Game](https://github.com/mserhattatar/RunRun)
+- 🔭 I’m currently working on [Word Runner Game](https://github.com/mserhattatar/WordRunnerGame) 
 
-- 👨‍💻 All of my projects are available at [github.com/mserhattatar](github.com/mserhattatar)
+- 🤝 I’m looking for help for [Skipping School Game](https://github.com/mserhattatar/SkippingSchoolRunnerGame)
+
+- 👨‍💻 All of my projects are available at [Git Hub](github.com/mserhattatar)
 
 - 📫 How to reach me **mserhattatar@gmail.com**
 
